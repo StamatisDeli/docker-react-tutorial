@@ -1,4 +1,4 @@
-# https://github.com/einaregilsson/beanstalk-deploy
+# reference: https://github.com/einaregilsson/beanstalk-deploy
 
 name: Deploy Frontend
 on:
