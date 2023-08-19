@@ -1,6 +1,8 @@
 # Getting Started with Create React App and Docker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a project for learing Docker
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a project for learing Docker, deployed with AWS Beanstalk.
+
+![screenshot of deployed app](public/screenshot.png)
 
 ## Available Scripts
 
